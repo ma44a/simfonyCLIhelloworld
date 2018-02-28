@@ -1,0 +1,11 @@
+{
+    "name": "apple/testconsole",
+    "require": {
+        "symfony/console": "^4.0"
+    },
+   "autoload":{
+	"psr-4":{
+		"MyNamespace\\":""
+	}
+	}
+}
